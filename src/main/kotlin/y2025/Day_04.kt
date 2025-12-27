@@ -11,9 +11,9 @@ class Day_04(path: String) {
 
 
     fun solution() {
-        println("--- Day 2 part 1 ---")
+        println("--- Day 4 part 1 ---")
         part_1()
-        println("--- Day 2 part 2 ---")
+        println("--- Day 4 part 2 ---")
         part_2()
     }
 
