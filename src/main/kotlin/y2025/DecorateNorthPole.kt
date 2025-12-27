@@ -1,10 +1,10 @@
 package org.lyn.twentytwentyfive
 
-import twentytwentyfive.Day_04
+import y2025.Day_04
 
 
 class DecorateNorthPole {
-    val resourcePath = "C:\\Users\\ander\\workspace\\AdventOfCode\\src\\main\\resources\\twentytwentyfive\\"
+    val resourcePath = "C:\\Users\\ander\\workspace\\AdventOfCode\\src\\main\\resources\\y2025\\"
     val day_01 = Day_01(resourcePath)
     val day_02 = Day_02(resourcePath)
     val day_03 = Day_03(resourcePath)
