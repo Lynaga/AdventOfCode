@@ -1,6 +1,4 @@
-package org.lyn.twentytwentyfive
-
-import y2025.Day_04
+package org.lyn.y2025
 
 
 class DecorateNorthPole {
@@ -12,9 +10,9 @@ class DecorateNorthPole {
 
 
     fun run() {
-        //day_01.solution()
-        //day_02.solution()
-        //day_03.solution()
+        day_01.solution()
+        day_02.solution()
+        day_03.solution()
         day_04.solution()
     }
 }

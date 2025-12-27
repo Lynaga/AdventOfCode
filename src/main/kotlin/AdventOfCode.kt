@@ -1,6 +1,6 @@
 package org.lyn
 
-import org.lyn.twentytwentyfive.DecorateNorthPole
+import org.lyn.y2025.DecorateNorthPole
 
 
 fun main() {
